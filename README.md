@@ -1,2 +1,2 @@
 # python-strucure-practice-
-lerning how to manage multi file  python project 
+this is for lerning how to manage multi file python project  
